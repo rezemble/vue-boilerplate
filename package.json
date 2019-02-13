@@ -1,0 +1,15 @@
+{
+  "name": "vue-boilerplate",
+  "version": "1.0.0",
+  "description": "Vue Project Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.nullpointer.eu/biodroid/vue-boilerplate.git"
+  },
+  "author": "luthor",
+  "license": "ISC"
+}
